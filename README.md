@@ -8,7 +8,7 @@ it gives you real-time monitoring as well as a very precise summary of your migr
 
  all this with a single click, without installation of course or admin rights, you can also analyze a remote server.
  
- HOW TO USE :
+# HOW TO USE :
  
  Open the exe file
  select File = > Open (then select the folder parent for your migration , by default in AppData\Roaming\Microsoft\MigrationTool\ )
