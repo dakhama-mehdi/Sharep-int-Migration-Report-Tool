@@ -1,6 +1,6 @@
 # Sharepoint-Migration-Report-Tool
 
-![Alt Text](https://ivellath.sirv.com/SCCM-TO-OU.gif)
+![Alt Text](https://ivellath.sirv.com/Sharepoint-MIRE.gif)
 
 Sarepoint migration report tool is a free tool developped by Dakhama, that help you during your migration to Sharepoint,
 
