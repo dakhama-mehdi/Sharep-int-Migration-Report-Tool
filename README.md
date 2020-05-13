@@ -1,4 +1,4 @@
-# Sharep-int-Migration-Report-Tool
+# Sharepoint-Migration-Report-Tool
 
 
 Sarepoint migration report tool is a free tool developped by Dakhama, that help you during your migration to Sharepoint,
